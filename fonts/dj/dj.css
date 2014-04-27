@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'GistUprightExtraboldDemoRegular';
+    src: url('dj.eot');
+    src: url('dj.eot') format('embedded-opentype'),
+         url('dj.woff') format('woff'),
+         url('dj.ttf') format('truetype'),
+         url('dj.svg#GistUprightExtraboldDemoRegular') format('svg');
+}
