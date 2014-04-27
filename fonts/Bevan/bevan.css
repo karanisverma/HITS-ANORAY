@@ -1,8 +1,0 @@
-@font-face {
-    font-family: 'BevanRegular';
-    src: url('bevan.eot');
-    src: url('bevan.eot') format('embedded-opentype'),
-         url('bevan.woff') format('woff'),
-         url('bevan.ttf') format('truetype'),
-         url('bevan.svg#BevanRegular') format('svg');
-}

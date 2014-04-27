@@ -1,8 +1,0 @@
-@font-face {
-    font-family: 'SFCollegiateSolidRegular';
-    src: url('sf_collegiate_solid.eot');
-    src: url('sf_collegiate_solid.eot') format('embedded-opentype'),
-         url('sf_collegiate_solid.woff') format('woff'),
-         url('sf_collegiate_solid.ttf') format('truetype'),
-         url('sf_collegiate_solid.svg#SFCollegiateSolidRegular') format('svg');
-}
