@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'CherrySwashBold';
+    src: url('cherryswash-bold.eot');
+    src: url('cherryswash-bold.eot') format('embedded-opentype'),
+         url('cherryswash-bold.woff') format('woff'),
+         url('cherryswash-bold.ttf') format('truetype'),
+         url('cherryswash-bold.svg#CherrySwashBold') format('svg');
+}
